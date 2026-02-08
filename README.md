@@ -1,15 +1,11 @@
-<h1>
-  Hello, World! I'm Mikhail :wave:
-</h1>
+# Hello, World! I'm Mikhail :wave:
 
-I am a lifetime learner with an endless desire to grow on oneself, work, learn and teach others interesting new things in field if AL/ML, Cybersecurity and Software Engineering. I am the type of person who is constantly looking for new opportunities and new experiences, and also strives to apply the acquired experience and knowledge as quickly as possible.
+Security Operations Engineer specializing in building and managing enterprise security programs, infrastructure security, identity and access management, and compliance automation.
 
-What am I doing and why am I doing that? Well, I am just trying to make this world a little better place.
+Background in full-stack software development and hands-on experience with cloud infrastructure (AWS, GCP, Terraform, Ansible), networking (VLAN segmentation, VPN architecture, DNS/DNSSEC), and security tooling (XDR, vulnerability management, SIEM, MDM). Currently expanding into AI/ML with a focus on medical image segmentation and large language models.
 
-<div align="center">
-  The place where I share my thoughts and knowledge: <a href="https://mikhailbahdashych.me">mikhailbahdashych.me</a>
-</div>
+Holding CompTIA Security+ and CCNA certifications.
 
-<div align="center">
-  Contact email address: <a href="mailto:contact@mikhailbahdashych.me">contact@mikhailbahdashych.me</a>
-</div>
+- **Blog:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
+- **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
+- **Email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
