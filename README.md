@@ -7,5 +7,5 @@ Background in full-stack software development and hands-on experience with cloud
 Holding CompTIA Security+ and CCNA certifications.
 
 - **Blog:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
-- **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
 - **Email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
+- **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
