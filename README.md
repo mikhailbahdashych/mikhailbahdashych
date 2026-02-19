@@ -4,7 +4,7 @@ Security Operations Engineer specializing in building and managing enterprise se
 
 Background in full-stack software development and hands-on experience with cloud infrastructure (AWS, GCP, Terraform, Ansible), networking (VLAN segmentation, VPN architecture, DNS/DNSSEC), and security tooling (XDR, vulnerability management, SIEM, MDM). Currently expanding into AI/ML with a focus on medical image segmentation and large language models.
 
-Holding CompTIA Security+ and CCNA certifications.
+Holding CompTIA Security+ (CSCO14357199) and CCNA certifications (C2098332).
 
 - **Blog:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
 - **Email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
