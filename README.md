@@ -8,6 +8,5 @@ Currently pursuing a Master's in Artificial Intelligence at AGH University of Kr
 
 Holding CompTIA Security+ (CSCO14357199) and CCNA certifications (C2098332). 
 
-- **Blog:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
 - **Email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
