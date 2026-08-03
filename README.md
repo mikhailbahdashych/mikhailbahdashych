@@ -8,3 +8,4 @@ Currently pursuing a Master's in Artificial Intelligence & Machine Learning at A
 
 - **Email:** contact[at]mikhailbahdashych.me
 - **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
+- **Website:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
