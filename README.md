@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! I'm Mikhail :wave:</h1>
+# Hello, World! I'm Mikhail :wave:
 
 Security Engineer who is building and running an enterprise security program end-to-end - covering security monitoring, vulnerability management, incident response, identity and access management, compliance (ISO 27001, ISO 27701, SOC 2 Type 2), and security policy development across cloud infrastructure and corporate environments.
 
