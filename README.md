@@ -6,6 +6,6 @@ Background in full-stack software development (TypeScript, Angular, Nest.js) and
 
 Currently pursuing a Master's in Artificial Intelligence & Machine Learning at AGH University of Krakow, with thesis research on medical image segmentation. Holding CompTIA Security+ and CCNA certifications.
 
-- **Email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
+- **Contact email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
-- **Website:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
+- **Personal website:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
