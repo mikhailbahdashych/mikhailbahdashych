@@ -4,7 +4,7 @@ Security Engineer who is building and running an enterprise security program end
 
 Background in full-stack software development (TypeScript, Angular, Nest.js) and fintech risk management (AML/KYC), with hands-on experience across cloud infrastructure (AWS, GCP), networking, and security tooling (XDR, SIEM, MDM, vulnerability scanners), writing Python for security automation and internal tooling.
 
-Currently pursuing a Master's in Artificial Intelligence & Machine Learning at AGH University of Krakow, with thesis research on medical image segmentation. Holding CompTIA Security+ and CCNA certifications.
+Holding CompTIA Security+ and CCNA certifications.
 
 - **Contact email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
