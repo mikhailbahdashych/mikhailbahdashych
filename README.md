@@ -2,7 +2,7 @@
 
 Security Engineer who is building and running an enterprise security program end-to-end - covering security monitoring, vulnerability management, incident response, identity and access management, compliance (ISO 27001, ISO 27701, SOC 2 Type 2), and security policy development across cloud infrastructure and corporate environments.
 
-Background in full-stack software development (TypeScript, Angular, Nest.js) and fintech risk management (AML/KYC), with hands-on experience across cloud infrastructure (AWS, GCP), networking, and security tooling (XDR, SIEM, MDM, vulnerability scanners), writing Python for security automation and internal tooling.
+Background in full-stack software development (TypeScript, Angular, Nest.js) and fintech risk management, with hands-on experience across cloud infrastructure (AWS, GCP), networking, and security tooling (XDR, SIEM, MDM, vulnerability scanners), writing Python for security automation and internal tooling.
 
 Holding CompTIA Security+ and CCNA certifications.
 
