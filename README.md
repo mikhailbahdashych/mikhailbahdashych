@@ -9,3 +9,5 @@ Holding CompTIA Security+ and CCNA certifications.
 - **Contact email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
 - **Personal website:** [mikhailbahdashych.me](https://mikhailbahdashych.me)
+
+<!-- update it -->
