@@ -8,12 +8,12 @@ Before security I worked as a full-stack engineer and risk manager in fintech, b
 
 ### What I work on
 
-- **Security operations** — detection engineering with XDR, incident response, security monitoring across cloud and corporate environments
-- **Governance, risk & compliance** — ISO 27001, ISO 27701, SOC 2 Type 2; audit evidence ownership, risk assessment, policy development
-- **Vulnerability management** — continuous identification and remediation workflows for production infrastructure and endpoints
-- **Identity & access management** — RBAC design, provisioning workflows, access reviews, separation of duties
-- **Infrastructure & network security** — AWS and GCP hardening, network segmentation, VLANs, firewalls, DNS/DNSSEC
-- **Security automation** — Python tooling for access reviews, evidence collection, log analysis, and scan normalization
+- **Security operations** — detection engineering with XDR, incident response, security monitoring across cloud and corporate environments.
+- **Governance, risk & compliance** — ISO 27001, ISO 27701, SOC 2 Type 2; audit evidence ownership, risk assessment, policy development.
+- **Vulnerability management** — continuous identification and remediation workflows for production infrastructure and endpoints.
+- **Identity & access management** — RBAC design, provisioning workflows, access reviews, separation of duties.
+- **Infrastructure & network security** — AWS and GCP hardening, network segmentation, VLANs, firewalls, DNS/DNSSEC.
+- **Security automation** — Python tooling for access reviews, evidence collection, log analysis, and scan normalization.
 
 ### Toolbox
 
