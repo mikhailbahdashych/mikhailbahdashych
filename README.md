@@ -15,19 +15,6 @@ Before security I worked as a full-stack engineer and risk manager in fintech, b
 - **Infrastructure & network security** — AWS and GCP hardening, network segmentation, VLANs, firewalls, DNS/DNSSEC.
 - **Security automation** — Python tooling for access reviews, evidence collection, log analysis, and scan normalization.
 
-### Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
 Certified in CompTIA Security+ and Cisco CCNA.
 
 - **Contact email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
