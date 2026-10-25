@@ -6,6 +6,8 @@ My work spans both sides of the discipline: the governance side — three concur
 
 Before security I worked as a full-stack engineer and risk manager in fintech, building consumer products and AML/KYC compliance systems — a background that still pays off in application security reviews, code-level analysis, and the Python I write to automate security operations. Currently pursuing a Master's in Artificial Intelligence & Machine Learning, with research on retrieval-augmented generation and medical image segmentation for clinical diagnostics.
 
+Certified in CompTIA Security+ and Cisco CCNA.
+
 ### What I work on
 
 - **Security operations** — detection engineering with XDR, incident response, security monitoring across cloud and corporate environments.
@@ -15,7 +17,7 @@ Before security I worked as a full-stack engineer and risk manager in fintech, b
 - **Infrastructure & network security** — AWS and GCP hardening, network segmentation, VLANs, firewalls, DNS/DNSSEC.
 - **Security automation** — Python tooling for access reviews, evidence collection, log analysis, and scan normalization.
 
-Certified in CompTIA Security+ and Cisco CCNA.
+How to find me:
 
 - **Contact email:** [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - **LinkedIn:** [linkedin.com/in/mikhail-bahdashych](https://www.linkedin.com/in/mikhail-bahdashych)
